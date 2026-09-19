@@ -1,3 +1,4 @@
-# Act_1_1
+# Actividades con algoritmos de ordenamiento y busqueda
 
-Este código en C++ incluye 3 sumatorias de un numero y sus numeros anteriores, utilizando ciclos, recursión y formulas directas.
+Se agrego una actividad que ordena bitacoras
+
